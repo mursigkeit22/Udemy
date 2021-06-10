@@ -1,0 +1,4 @@
+Exception ignored in: <function Person.__del__ at 0x000001594F8D0798>
+Traceback (most recent call last):
+  File "<ipython-input-30-d73b6a46811c>", line 3, in __del__
+ValueError: Exception in the __del__ method...
